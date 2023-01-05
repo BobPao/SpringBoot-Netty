@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.easyarch</groupId>
-    <artifactId>lyh</artifactId>
+    <artifactId>springboot-netty</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>lyh</name>
+    <name>springboot-netty</name>
     <description>Spring Boot+netty</description>
 
     <properties>
